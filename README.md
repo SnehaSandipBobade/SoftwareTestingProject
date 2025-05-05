@@ -130,21 +130,6 @@ Summarize test execution results from each cycle.
 
 ---
 
-## 📂 Folder Structure
-
-📦 Manual-Testing-Project/
-├── README.md
-├── TestPlan/
-│ └── TestPlan.xlsx
-├── TestCases/
-│ └── TestCases.xlsx
-├── BugReports/
-│ └── Bug_Report.xlsx
-└── Screenshots/
-└── [bug screenshots, if any]
-
----
-
 ## 👤 Author
 
 - **Name:** Sneha Sandip Bobade
