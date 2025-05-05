@@ -1,13 +1,12 @@
 # SoftwareTestingProject
 This repository contains manual testing documentation. It includes a structured Test Plan, detailed Test Cases, and other QA artifacts designed to ensure application quality through end-to-end manual testing
-# 🧪 Manual Testing Project – VWO Website
+# 🧪 Manual Testing Project
 
 ## 📌 Project Overview
 
 Provide a high-level summary of the project under test.
 
-- **Application Type:** (e.g., Web / Mobile / Desktop)
-- **Domain:** (e.g., E-commerce / SaaS / Finance)
+- **Application Type: Web
 - **Testing Type:** Manual Testing
 - **Tested Modules:**  
   - Login & Authentication  
